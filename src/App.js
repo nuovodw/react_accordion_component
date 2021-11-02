@@ -8,11 +8,11 @@ const items = [
 	},
 	{
 		title: 'What is your tech stack?',
-		content: 'React, Javascript, Material UI',
+		content: 'React, Javascript, Material UI, Semantic UI',
 	},
 	{
-		title: 'What do you like about being a dev?',
-		content: 'I love solving problems and creating apps and websites.',
+		title: 'Which UI framwork are you using for this app?',
+		content: 'Semantic UI',
 	},
 ];
 
