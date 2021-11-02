@@ -1,5 +1,10 @@
 import React from 'react';
+import Accordion from './Accordion';
 
 export default () => {
-	return <h1>Accordion</h1>;
+	return (
+		<div>
+			<Accordion />
+		</div>
+	);
 };
