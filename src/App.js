@@ -11,7 +11,7 @@ const items = [
 		content: 'React, Javascript, Material UI, Semantic UI',
 	},
 	{
-		title: 'Which UI framwork are you using for this app?',
+		title: 'Which UI framework are you using for this app?',
 		content: 'Semantic UI',
 	},
 ];
